@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 3, 2017
 
 ### Student Name:  
-(First and Last Name)
+Meghan Allbright
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project was to create a photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://meghanallbright.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The DOM represents the Web page displayed in a browser and contains all of the Web page elements.
+2. The DHTML is a combination of HTML, CSS, and JavaScript
+3. DOM tree contains items called ndoes and the most commonly used are element, attribute, and text.
